@@ -14,3 +14,5 @@ Three different ipynb files:
 paper.txt, to perform tests.
 
 Medical_NER_Detection_and_Semantic_Type_Classification_Using_Flair.pdf is an unpublished paper for this work.
+
+corpus_pubtator are the files from original medmentions corpus.
